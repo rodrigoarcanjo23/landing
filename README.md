@@ -1,2 +1,2 @@
 # landing
- primeiro projeto
+ primeiro projeto css e html usando as dicas da rafa
